@@ -6,7 +6,7 @@ import torch.cuda
 from  transformers import AutoModelForCausalLM, AutoTokenizer
 
 
-MODELS_DIR = "D:/works/big/LLaMA-Factory/models"
+MODELS_DIR = "D:/models"
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 current_model = None
