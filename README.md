@@ -22,7 +22,7 @@ This project demonstrates a LLM chatbot using Hugging Face models and Gradio. It
 
 ```bash
 git clone https://github.com/SmallBlueE/LLMChatbot.git
-cd dynamic-model-switching-chatbot
+cd LLMChatbot
 ```
 
 2. Install the required packages:
